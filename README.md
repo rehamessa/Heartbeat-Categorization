@@ -1,2 +1,2 @@
 # Heartbeat-Categorization
-![alt text](http://url/to/img.png)
+![alt text](image/images.png)
